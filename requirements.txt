@@ -1,5 +1,6 @@
 aiogram==2.25.1
-rembg
+rembg[cpu]
 opencv-python-headless
 Pillow
 numpy
+
